@@ -124,16 +124,22 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University, Stanislaus',
+      degree: 'Master of Science in Biological Sciences',
+      from: '2025',
+      to: '2027',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'California State University, Stanislaus',
+      degree: 'Bachelor of Science in Biological Sciences',
+      from: '2023',
+      to: '2025',
+    },
+    {
+      institution: 'Columbia College',
+      degree: 'Associate of Science in Biology',
+      from: '2021',
+      to: '2023',
     },
   ],
   publications: [
