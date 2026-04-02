@@ -86,7 +86,7 @@ const CONFIG = {
     'PCR',
     'Gel electrophoresis',
     'Bioinformatics',
-    'Nanodrop',
+    'Genome annotation and assembly',
     'Microbial culturing',
     'Aseptic technique',
     'Microscopy',
